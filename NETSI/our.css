@@ -60,7 +60,7 @@ font-style: italic;
  
 }
 .card:hover{
-  opacity: 3;
+  opacity: 2;
 }
 img {
   transition: transform 0.3s ease, box-shadow 0.3s ease, opacity 0.3s ease;
